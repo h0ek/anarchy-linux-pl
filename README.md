@@ -1,2 +1,2 @@
 # arch-linux-anywhere-pl
-Polish language for arch-anywhere
+Polish language for [Arch-Anywhere](https://github.com/deadhead420/arch-linux-anywhere)
