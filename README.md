@@ -1,2 +1,2 @@
-# arch-linux-anywhere-pl
-Polish language for [Arch-Linux-Anywhere](https://github.com/deadhead420/arch-linux-anywhere)
+# anarchy-linux-pl
+Polish language for [anarchy-linux](https://github.com/deadhead420/arch-linux-anywhere)
